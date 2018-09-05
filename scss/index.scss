@@ -1,0 +1,17 @@
+@import 'custom';
+
+@import "~bootswatch/dist/solar/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/solar/bootswatch";
+.bg-transparent{
+    opacity: 0.7;
+}
+
+
+.navbar-brand {
+    text: white;
+    text-decoration: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
